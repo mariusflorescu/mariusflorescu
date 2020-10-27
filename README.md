@@ -23,3 +23,8 @@
 
 #### TOOLS
 
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/git-icon.svg"/></a>
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/github-icon.svg"/></a>
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/postman.svg"/></a>
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/npm.svg"/></a>
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/></a>
