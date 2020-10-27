@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Marius 👋🏼
 
-<!--
-**mariusflorescu/mariusflorescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a young Student and Full-Stack Developer
+- 👨🏽‍🎓 I'm currently studying at <b>Politehnica University Timisoara</b>.
+- 🚀 I'm currently learning more and more about <b>Web Development</b> <i>(When you stop learning you stop growing)</i>
+- ⚙️ I'm also interested in <b>C Programming</b>.
+- ⚡️ I love driving and travelling.
 
-Here are some ideas to get you started:
+## Web development skillset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### FRONTEND
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/html-5.svg"/></a>&nbsp;
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/css-3.svg"/></a>&nbsp;
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/javascript.svg"/></a>&nbsp;
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/react.svg"/></a>
+
+#### BACKEND
+
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"/></a>&nbsp;
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/express.svg"/></a>&nbsp;
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/mongodb.svg"/></a>&nbsp;
+<a href="#"><img width="60" height="60" src="https://cdn.svgporn.com/logos/firebase.svg"/></a>
+
+#### TOOLS
+
