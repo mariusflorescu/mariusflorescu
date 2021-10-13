@@ -1,10 +1,7 @@
-### Hi there, I'm Marius 👋🏼
+### hi, i'm marius
 
-## Student and fullstack developer
-- 👷🏼‍♂️ Currently working at <b>Victory Square Partners</b>
-- 👨🏽‍🎓 Currently studying at <b>Politehnica University Timisoara</b>.
-- 🚀 Node.js & React
-- ⚡️ I love driving and travelling.
+learning by building    
+crafting interfaces @ victory square partners
 
 --------
 
